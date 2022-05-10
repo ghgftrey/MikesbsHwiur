@@ -1,5 +1,5 @@
 services:
-  MikesbsHwiur:
+  tbgz5yq:
     build: .
     shm_size: 2.6gb
     ports:
